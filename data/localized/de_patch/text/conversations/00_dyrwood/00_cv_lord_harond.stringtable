@@ -26,12 +26,12 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich möchte Ihnen ein paar Fragen über Ihre Tochter stellen.“</DefaultText>
+      <DefaultText>„Ich möchte Euch ein paar Fragen über Eure Tochter stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>„Erzählen Sie mir von sich.“</DefaultText>
+      <DefaultText>„Erzählt mir von Euch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,17 +58,17 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Beschreiben Sie Lady Aelys.“</DefaultText>
+      <DefaultText>„Beschreibt Lady Aelys.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>„Erzählen Sie mir über ihr Verschwinden.“</DefaultText>
+      <DefaultText>„Erzählt mir über ihr Verschwinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Lassen Sie uns zu meiner vorherigen Fragen zurückgehen.“</DefaultText>
+      <DefaultText>„Lasst mich zu meiner vorherigen Frage zurückgehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,7 +85,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Sonst noch etwas? Dann fahren Sie bitte fort.“</DefaultText>
+      <DefaultText>„Sonst noch etwas? Dann fahrt bitte fort.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -115,7 +115,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>„Ihr Kind ist verschwunden, nehme ich an.“</DefaultText>
+      <DefaultText>„Euer Kind ist verschwunden, nehme ich an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,12 +159,12 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>„Ich sage Ihnen das zu ihrem Wohl, nicht für Ihres. Aelys gehört in Behandlung.“</DefaultText>
+      <DefaultText>„Ich sage Euch das zu ihrem Wohl, nicht für das Eurige. Aelys gehört in Behandlung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>„Sie wissen ganz genau, um was es hier geht.“</DefaultText>
+      <DefaultText>„Ihr wisst ganz genau, um was es hier geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -189,7 +189,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>196</ID>
-      <DefaultText>„Ich habe gehört, wie Sie mit dem Schankwirt stritten&#160;…“</DefaultText>
+      <DefaultText>„Ich habe gehört, wie Ihr mit dem Schankwirt strittet&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +199,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>„Eigentlich schien er mehr wütend auf Sie zu sein.“</DefaultText>
+      <DefaultText>„Eigentlich schien er mehr wütend auf Euch zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>„Warum sind Sie und Aelys nach Dyrfurt gekommen?“</DefaultText>
+      <DefaultText>„Warum seid Ihr und Aelys nach Dyrfurt gekommen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>„Ich weiß zufällig, dass Fürst Raedric von Goldtal seit kurzem wieder alleinstehend ist, sollten Sie nach einem geeigneten Edelmann suchen&#160;…“</DefaultText>
+      <DefaultText>„Ich weiß zufällig, dass Fürst Raedric von Goldtal seit kurzem wieder alleinstehend ist, solltet Ihr nach einem geeigneten Edelmann suchen&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>„Aha. Aber wieder zurück zu Ihrer Tochter&#160;…“</DefaultText>
+      <DefaultText>„Aha. Aber wieder zurück zu Eurer Tochter&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@ Er bemerkt dich und zeigt ein zuckendes Grinsen. „Es ist an der Zeit, dass Ael
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>„Sind Sie sicher, dass ihnen das nicht mehr wert ist? Ich meine, dass Ihre Erbin wieder sicher bei Ihnen ist.“</DefaultText>
+      <DefaultText>„Seid Ihr sicher, dass Euch das nicht mehr wert ist? Ich meine, dass Euch Erbin wieder sicher bei Euch ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,27 +375,27 @@ Er dreht sich zu Aelys um. „Lass uns gehen, mein Liebling. Schnell.“</Defaul
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>„Sie wissen ganz genau, was ich entdeckt habe.“</DefaultText>
+      <DefaultText>„Ihr wisst ganz genau, was ich entdeckt habe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>„Ich sollte Sie dafür töten, was Sie getan haben&#160;…“</DefaultText>
+      <DefaultText>„Ich sollte Euch dafür töten, was Ihr getan habt&#160;…“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>„Sie ist außerhalb Ihrer Reichweite, und das ist alles, was zählt.“</DefaultText>
+      <DefaultText>„Sie ist außerhalb Eurer Reichweite, und das ist alles, was zählt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>„Ich werde allen erzählen, was für ein Monster Sie sind!“</DefaultText>
+      <DefaultText>„Ich werde allen erzählen, was für ein Monster Ihr seid!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>„Zum Reden bin ich nicht hergekommen. Zahlen Sie, und dann packen Sie sich fort!“</DefaultText>
+      <DefaultText>„Zum Reden bin ich nicht hergekommen. Zahlt, und dann packt Euch fort!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,7 +425,7 @@ Er dreht sich zu Aelys um. „Lass uns gehen, mein Liebling. Schnell.“</Defaul
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>„Gehen Sie.“</DefaultText>
+      <DefaultText>„Geht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -435,7 +435,7 @@ Er dreht sich zu Aelys um. „Lass uns gehen, mein Liebling. Schnell.“</Defaul
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>„Gerüchte sind ziemlich schnell, auf jeden Fall schneller als Karawanen. Möchten Sie dieses Risiko wirklich eingehen?“</DefaultText>
+      <DefaultText>„Gerüchte sind ziemlich schnell, auf jeden Fall schneller als Karawanen. Möchtet Ihr dieses Risiko wirklich eingehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
